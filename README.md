@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rleq
 - 👀 I’m interested in code 
 - 🌱 I’m currently learning java
-- 📫 How to reach me Discord: Ens#0001
+- 📫 Contact: rleqcontact@gmail.com
 
 <!---
 rleq/rleq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
